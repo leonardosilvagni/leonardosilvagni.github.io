@@ -4,15 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Io sono Leonardo Silvagni, sono uno studente di __Arzignano__ e il mio hobby
+principale è imparare linguaggi di programmazione, ho avuto esperienze in passato
+con il __C__, con _Java_ e _Python_ mentre ora mi sto concentrando per imparare bene l'___HTML___
+e linguaggi di web-developing associati quali _css, javascript e jQuery_.

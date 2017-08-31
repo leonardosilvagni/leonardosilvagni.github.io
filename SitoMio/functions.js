@@ -14,6 +14,6 @@ anche i capolinea e le spaziature sostituendo il /n macchina con <br/>
 $(function(){
 $("#btn2").click(function(){
   $("#mango").append($('<li class="listItem bg-gradient-blue">Del Testo perche altrimenti non genera il li</li>'));
-  $(".listItem:last-child").text($("#txtinput").val());
+  $(".listItem:last-child").html($("#txtinput").val());
   });
 });
